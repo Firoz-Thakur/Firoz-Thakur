@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Firoz-kumar-3/](https://github.com/Firoz-kumar-3/)
 
-- 💬 Ask me about **C++, DSA, CP**
+- 💬 Ask me about **C++, DSA, CP, DBMS, OS,OOPs**
 
 - 📫 How to reach me **firozbhaikardar21@gmail.com**
 
