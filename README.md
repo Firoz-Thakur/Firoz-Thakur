@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/firoz-kumar-163264188/](https://www.linkedin.com/in/firoz-kumar-163264188/)
 
-- ⚡ CV/Resume  [https://novoresume.com/editor/resume/27fdf7d0-45fd-11eb-98cc-f7b8c2f9ecf4](https://novoresume.com/editor/resume/27fdf7d0-45fd-11eb-98cc-f7b8c2f9ecf4)
+- ⚡ CV/Resume  [https://drive.google.com/drive/folders/1iOun0oCg8F0EMNLKeCGt94eC8BakGoW3](https://drive.google.com/drive/folders/1iOun0oCg8F0EMNLKeCGt94eC8BakGoW3)
  
 
 <h3 align="left">Languages and Tools:</h3>
