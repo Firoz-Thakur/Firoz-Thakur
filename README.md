@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CP, Machine Learning & Springboot, Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Firoz-kumar-3/](https://github.com/Firoz-kumar-3/)
+- 👨‍💻 All of my projects are available at [https://github.com/Firoz-kumar-3?tab=repositories](https://github.com/Firoz-kumar-3?tab=repositories)
  
 - 💬 Ask me about **C/C++, DSA, CP, DBMS, OS,OOP , Python,Java, Artificial Intelligence, Machine learning,Django**
 
