@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/firoz-kumar-163264188/](https://www.linkedin.com/in/firoz-kumar-163264188/)
 
-- ⚡ Fun fact **Developer at night  || Deep Water **
+- ⚡ Fun fact **Developer at night  || Deep Water**
 
 
 <h3 align="left">Languages and Tools:</h3>
