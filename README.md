@@ -12,7 +12,7 @@
  
 - 💬 Ask me about **C/C++, DSA, CP, DBMS, OS,OOP , Python,Java, Artificial Intelligence, Machine learning,Django**
 
-- 📫 How to reach me **firozbhaikardar21@gmail.com**
+- 📫 How to reach me **firozbhaikardar21@gmail.com || 7876701393**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/firoz-kumar-163264188/](https://www.linkedin.com/in/firoz-kumar-163264188/)
 
