@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firoz</h1>
-<h3 align="center">Coding Mafia at Coding Club India || Machine learning enthusiast || Competitive Programmer     ||     
+<h3 align="center">   Coding Mafia at Coding Club India   ||   Machine learning enthusiast     ||    Competitive Programmer     ||     
                                                  Campus Ambassador at Coding Club India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz-kumar-3&label=Profile%20views&color=0e75b6&style=flat" alt="firoz-kumar-3" /> </p>
@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Firoz-kumar-3/](https://github.com/Firoz-kumar-3/)
 
-- 💬 Ask me about **C++, DSA, CP, DBMS, OS,OOPs**
+- 💬 Ask me about **C/C++, DSA, CP, DBMS, OS,OOP , Python,Java, Artificial Intelligence, Machine learning,Django**
 
 - 📫 How to reach me **firozbhaikardar21@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/firoz-kumar-163264188/](https://www.linkedin.com/in/firoz-kumar-163264188/)
 
-- ⚡ Fun fact **Developer at night**
+- ⚡ Fun fact **Developer at night  || Deep Water **
 
 
 <h3 align="left">Languages and Tools:</h3>
