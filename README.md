@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firoz</h1>
-<h3 align="center">Coding Mafia at Coding Club India || Machine learning enthusiast || Competitive Programmer     ||      Campus Ambassador at Coding Club India </h3>
+<h3 align="center">Coding Mafia at Coding Club India || Machine learning enthusiast || Competitive Programmer     ||     
+                                                 Campus Ambassador at Coding Club India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz-kumar-3&label=Profile%20views&color=0e75b6&style=flat" alt="firoz-kumar-3" /> </p>
 
