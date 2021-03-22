@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CP, Machine Learning ,Django & Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Firoz-kumar-3?tab=repositories](https://github.com/Firoz-kumar-3?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Firoz-Thakur?tab=repositories](https://github.com/Firoz-Thakur?tab=repositories)
  
 - 💬 Ask me about **C/C++, DSA, CP, DBMS, OS,OOP , Python,Java, Artificial Intelligence, Machine learning,Django**
 
