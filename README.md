@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firoz-kumar-3" alt="firoz-kumar-3" /></a> </p>
 
-- 🌱 I’m currently learning **CP, Machine Learning ,Django & Artificial Intelligence**
+- 🌱 I’m currently learning **CP, Python , Django, Machine Learning ,  & Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Firoz-Thakur?tab=repositories](https://github.com/Firoz-Thakur?tab=repositories)
  
