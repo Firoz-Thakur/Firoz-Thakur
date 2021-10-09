@@ -8,15 +8,16 @@
 
 - 🌱 I’m currently learning **Data structure and algorithm, competitive programming, Python , Django and Machine Learning **
 
-- 👨‍💻 All of my projects are available at [https://github.com/Firoz-Thakur?tab=repositories](https://github.com/Firoz-Thakur?tab=repositories)
+- 👨‍💻 All of my projects are available at [My REPOs](https://github.com/Firoz-Thakur?tab=repositories)
  
 - 💬 Ask me about **C/C++, DSA, competitive programming, DBMS, OS,OOP , Python, Django, Java, Machine learning**
 
 - 📫 How to reach me **firozbhaikardar21@gmail.com || 7876701393**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/firoz-kumar-163264188/](https://www.linkedin.com/in/firoz-kumar-163264188/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/firoz-kumar-163264188/)
 
-- ⚡ CV/Resume  [click me](https://drive.google.com/file/d/1LgL5-2yahGp8BxHiS50gahMWdw0MU7KN/view?usp=sharing)
+- ⚡ CV/Resume  [Resume](https://drive.google.com/file/d/1LgL5-2yahGp8BxHiS50gahMWdw0MU7KN/view?usp=sharing)
+
  
 
 <h3 align="left">Languages and Tools:</h3>
