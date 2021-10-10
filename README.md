@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/firoz-kumar-163264188/)
 
-- ⚡ CV/Resume  [Resume](https://drive.google.com/file/d/1LgL5-2yahGp8BxHiS50gahMWdw0MU7KN/view?usp=sharing)
+- ⚡ CV/Resume  [Resume](https://drive.google.com/file/d/1WqVB9y633Yzb7WNtfXNkz8PyK9ZRjaCK/view?usp=sharing)
 
  
 
