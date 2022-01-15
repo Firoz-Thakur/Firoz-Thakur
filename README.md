@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My REPOs](https://github.com/Firoz-Thakur?tab=repositories)
  
-- 💬 Ask me about **C/C++, DSA, competitive programming, DBMS, OS,OOP , Python, Django, Java, Machine learning**
+- 💬 Ask me about **C/C++, DSA, competitive programming, DBMS, OS,OOP , Python, Django, Java, Artificial intelligence , Machine learning**
 
 - 📫 How to reach me **firozbhaikardar21@gmail.com || 7876701393**
 
