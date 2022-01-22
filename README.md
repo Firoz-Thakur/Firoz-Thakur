@@ -2,26 +2,23 @@
 <h3 align="center">   Software Engineer at Securonix || CSH at Coding Blocks || Ex-Coding Mafia at Coding Club India ||   ||  python developer   ||  AI - Machine learning enthusiast     ||    Competitive Programmer     ||     
 
   
-  ### Hey 👋🏽, I'm [Sounish!](https://sounishnath.netlify.app/) 
+  ### Hey 👋🏽, I'm [Firoz!](https://www.linkedin.com/in/firoz-kumar-163264188/) 
 
 <br/>
 
-<a href="https://twitter.com/sounish1">
-  <img align="left" alt="Sounish | Nath " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sounish-nath-897b30186/">
+
+<a href="https://www.linkedin.com/in/firoz-kumar-163264188/">
   <img align="left" alt="Sounish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/sounish003/">
+<a href="https://www.instagram.com/aju.exe_/">
   <img align="left" alt="Sounish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sounishnath003.sounishnath003)
 
 <br />
 
-Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ and a Former Angular Developer Intern [@ERCESS-LIVE](https://ercess.com/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Firoz, a software engineer 🚀 from India, A person who's, always on toes for learning new things and rather more eager to implement the same in real life. 
 
 <br />
 
@@ -29,13 +26,12 @@ Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a C
   
 ### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Educatify - Google Classroom Clone](https://github.com/sounishnath003/Educatify);
+- 👨🏽‍💻 I’m currently working on [securonix](https://www.securonix.com/contact-us/);
 - 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
-- 👯 I’m looking to collaborate on [Algorithms-Visualizations](https://github.com/sounishnath003/Expenso) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭❤;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sounish-nath-897b30186/) | [Instagram](https://www.instagram.com/sounish003/) ;
+- 📫 How to reach me: [LinkedIn]() | [Instagram](https://www.linkedin.com/in/firoz-kumar-163264188/) ;
 - 📝[Resume](https://drive.google.com/file/d/1eKI1zrUZF4kRoB2k8ARQ31fU5E2o9tF7/view?usp=sharing)
 
 ### **Languages and Tools:**  
