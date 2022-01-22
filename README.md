@@ -31,8 +31,8 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA , python, SQL , DBMS, OS , competitive programming, AI & Machine learning 
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
-- 📫 How to reach me: [LinkedIn]() | [Instagram](https://www.linkedin.com/in/firoz-kumar-163264188/) ;
-- 📝[Resume](https://drive.google.com/file/d/1eKI1zrUZF4kRoB2k8ARQ31fU5E2o9tF7/view?usp=sharing)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/) | [Instagram](https://www.instagram.com/aju.exe_/) ;
+- 📝[Resume](https://drive.google.com/file/d/1WqVB9y633Yzb7WNtfXNkz8PyK9ZRjaCK/view?usp=sharing)
 
 ### **Languages and Tools:**  
 
@@ -50,7 +50,7 @@
 
 
 ### **Graphical Trekings:**
-![Graphical Progress](https://activity-graph.herokuapp.com/graph?username=sounishnath003&hide_border=true&area=true&point=transparent%22)
+![Graphical Progress](https://activity-graph.herokuapp.com/graph?username=Firoz-Thaku&hide_border=true&area=true&point=transparent%22)
 
 
 ![Sounish's github stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
