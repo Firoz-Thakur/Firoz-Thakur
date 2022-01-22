@@ -32,8 +32,8 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA , python, SQL , DBMS, OS , competitive programming, AI & Machine learning 
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/) | [Instagram](https://www.instagram.com/aju.exe_/) ;
-- 📝[Resume](https://drive.google.com/file/d/1WqVB9y633Yzb7WNtfXNkz8PyK9ZRjaCK/view?usp=sharing)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/) | [Instagram](https://www.instagram.com/aju.exe_/) | [Whatsapp](https://wa.me/message/IHV6SFCVVAB4H1) ;
+- 📝 Know about my past experience [Resume](https://drive.google.com/file/d/1WqVB9y633Yzb7WNtfXNkz8PyK9ZRjaCK/view?usp=sharing) ;
 
 ### **Languages and Tools:**  
 
