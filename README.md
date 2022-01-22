@@ -17,8 +17,7 @@
 
 
 <br />
-
-     A software engineer 🚀 from India, A person who's, always on toes for learning new things and rather more eager to implement the same in real life. 
+ A software engineer 🚀 from India, A person who's, always on toes for learning new things and rather more eager to implement the same in real life. 
 
 <br />
 
