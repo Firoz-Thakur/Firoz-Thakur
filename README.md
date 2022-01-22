@@ -5,8 +5,7 @@
   ### Hey 👋🏽, I'm [Firoz!](https://www.linkedin.com/in/firoz-kumar-163264188/) 
 
 <br/>
-  <br/>
-
+  
 
 
 <a href="https://www.linkedin.com/in/firoz-kumar-163264188/">
@@ -24,10 +23,11 @@
 <br />
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  <br /><br />
+  <br />
   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
-  <br /><br />
-### **Talking about Personal Stuffs:**
+  <br />
+  
+###  **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Securonix](https://www.securonix.com/contact-us/);
 - 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
