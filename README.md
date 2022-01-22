@@ -1,28 +1,61 @@
 <h1 align="center">Hi 👋, I'm Firoz</h1>
 <h3 align="center">   Software Engineer at Securonix || CSH at Coding Blocks || Ex-Coding Mafia at Coding Club India ||   ||  python developer   ||  AI - Machine learning enthusiast     ||    Competitive Programmer     ||     
-                                                Ex - Campus Ambassador at Coding Club India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz-kumar-3&label=Profile%20views&color=0e75b6&style=flat" alt="firoz-kumar-3" /> </p>
+  
+  ### Hey 👋🏽, I'm [Sounish!](https://sounishnath.netlify.app/) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firoz-kumar-3" alt="firoz-kumar-3" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **Data structure and algorithm, competitive programming, Python , Django and Machine Learning **
+<a href="https://twitter.com/sounish1">
+  <img align="left" alt="Sounish | Nath " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sounish-nath-897b30186/">
+  <img align="left" alt="Sounish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 👨‍💻 All of my projects are available at [My REPOs](https://github.com/Firoz-Thakur?tab=repositories)
- 
-- 💬 Ask me about **C/C++, DSA, competitive programming, DBMS, OS,OOP , Python, Django, Java, Artificial intelligence , Machine learning**
+<a href="https://www.instagram.com/sounish003/">
+  <img align="left" alt="Sounish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 📫 How to reach me **firozbhaikardar21@gmail.com || 7876701393**
+![](https://visitor-badge.glitch.me/badge?page_id=sounishnath003.sounishnath003)
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/firoz-kumar-163264188/)
+<br />
 
-- ⚡ CV/Resume  [Resume](https://drive.google.com/file/d/1WqVB9y633Yzb7WNtfXNkz8PyK9ZRjaCK/view?usp=sharing)
+Hi, I'm Sounish Nath, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ and a Former Angular Developer Intern [@ERCESS-LIVE](https://ercess.com/). Beside's programming, I enjoy eating food and traveling.
 
- 
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+### **Talking about Personal Stuffs:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firoz-kumar-3&show_icons=true&locale=en&layout=compact" alt="firoz-kumar-3" /></p>
+- 👨🏽‍💻 I’m currently working on [Educatify - Google Classroom Clone](https://github.com/sounishnath003/Educatify);
+- 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
+- 👯 I’m looking to collaborate on [Algorithms-Visualizations](https://github.com/sounishnath003/Expenso) 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭❤;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sounish-nath-897b30186/) | [Instagram](https://www.instagram.com/sounish003/) ;
+- 📝[Resume](https://drive.google.com/file/d/1eKI1zrUZF4kRoB2k8ARQ31fU5E2o9tF7/view?usp=sharing)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firoz-kumar-3&show_icons=true&locale=en" alt="firoz-kumar-3" /></p>
+### **Languages and Tools:**  
+
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ruby/ruby.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+### **Graphical Trekings:**
+![Graphical Progress](https://activity-graph.herokuapp.com/graph?username=sounishnath003&hide_border=true&area=true&point=transparent%22)
+
+
+![Sounish's github stats](https://github-readme-stats.vercel.app/api?username=sounishnath003&show_icons=true&hide_border=true)<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+
