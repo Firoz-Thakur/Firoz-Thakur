@@ -22,10 +22,11 @@
  A software engineer 🚀 from India, A person who's, always on toes for learning new things and rather more eager to implement the same in real life. 
 
 <br />
-
+<br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <br /><br />
   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
-  
+  <br /><br />
 ### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Securonix](https://www.securonix.com/contact-us/);
