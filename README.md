@@ -29,7 +29,7 @@
   
 ###  **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Securonix](https://www.securonix.com/contact-us/);
+- 👨🏽‍💻 I’m currently working at [Securonix Inc](https://www.securonix.com/contact-us/);
 - 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA , python, SQL , DBMS, OS , competitive programming, AI & Machine learning 
