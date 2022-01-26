@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firoz</h1>
-<h3 align="center">  CSH at Coding Blocks || Ex-Coding Mafia at Coding Club India ||   ||  python/Django developer   ||  AI - Machine learning enthusiast     ||    Competitive Programmer     ||     
+<h3 align="center">  SDET at securonix || CSH at Coding Blocks || Ex-Coding Mafia at Coding Club India ||   ||  python/Django developer   ||  AI - Machine learning enthusiast     ||    Competitive Programmer     ||     
 
   
   ### Hey 👋🏽, I'm [Firoz!](https://www.linkedin.com/in/firoz-kumar-163264188/) 
