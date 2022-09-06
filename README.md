@@ -24,7 +24,6 @@
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   <br />
-  <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
   <br />
   
 ###  **Talking about Personal Stuffs:**
