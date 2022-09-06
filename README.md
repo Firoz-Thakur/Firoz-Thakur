@@ -44,14 +44,12 @@
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-### **Graphical Trekings:**
-![Graphical Progress](https://activity-graph.herokuapp.com/graph?username=Firoz-Thakur&hide_border=true&area=true&point=transparent%22)
-
-
-![Firoz's github stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&show_icons=true&hide_border=false)
   
 ![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true)
  
+ - Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur)](https://github.com/Firoz-Thakur/github-readme-stats)
 
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
