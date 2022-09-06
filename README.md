@@ -23,7 +23,7 @@
   
 ###  **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working at [NAVI](https://navi.com/) as a SDET -1 ( EX  - Securonnix (SDET intern);
+- 👨🏽‍💻 I’m currently working at [NAVI](https://navi.com/) as a SDET -1 ( EX  - Securonix (SDET intern);
 - 🌱 proficient in C++, Java ,API automation , UI Automation , RestAssured , Karate, Selenium , Data structure and Algorithm and Python/Django ;
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA ,Automation,RestAssured , Karate, Selenium , python, SQL , DBMS, OS , competitive programming, AI & Machine learning etc
