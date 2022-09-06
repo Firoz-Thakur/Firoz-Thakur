@@ -48,4 +48,6 @@
 ![Graphical Progress](https://activity-graph.herokuapp.com/graph?username=Firoz-Thakur&hide_border=true&area=true&point=transparent%22)
 
 
-![Firoz's github stats]
+![Firoz's github stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&show_icons=true&hide_border=false)
+
+
