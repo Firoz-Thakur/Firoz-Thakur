@@ -50,7 +50,7 @@
 
 ![Firoz's github stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&show_icons=true&hide_border=false)
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Firoz-Thakur)](https://github.com/Firoz-Thakur?tab=repositories)
+![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true)
  
 
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
