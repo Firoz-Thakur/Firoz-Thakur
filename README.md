@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firoz</h1>
-<h3 align="center">  SDET at securonix || CSH at Coding Blocks || Ex-Coding Mafia at Coding Club India ||   ||  python/Django developer   ||  AI - Machine learning enthusiast     ||    Competitive Programmer     ||     
+<h3 align="center">  SDET-1 at NAVI || Ex - Securonix ||  ||   ||  Backend / UI Automation   ||   Rest Assured | Selenium   ||    Data structure and Algorithm     ||     Web Development 
 
   
   ### Hey 👋🏽, I'm [Firoz!](https://www.linkedin.com/in/firoz-kumar-163264188/) 
@@ -29,10 +29,10 @@
   
 ###  **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working at [Securonix Inc](https://www.securonix.com/contact-us/) as a SDET ;
-- 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
+- 👨🏽‍💻 I’m currently working at [NAVI](https://navi.com/) as a SDET -1 ( EX  - Securonnix (SDET intern);
+- 🌱 proficient in C++, Java , RestAssured , Karate, Selenium , Data structure and Algorithm, Python/Django ;
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
-- 💬 Ask me about c++,java, DSA , python, SQL , DBMS, OS , competitive programming, AI & Machine learning 
+- 💬 Ask me about c++,java, DSA ,Automation,RestAssured , Karate, Selenium , python, SQL , DBMS, OS , competitive programming, AI & Machine learning etc
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/) | [Instagram](https://www.instagram.com/aju.exe_/) | [Whatsapp](https://wa.me/message/IHV6SFCVVAB4H1) ;
 - 📝 Know about my past experience [Resume](https://drive.google.com/file/d/1WqVB9y633Yzb7WNtfXNkz8PyK9ZRjaCK/view?usp=sharing) ;
