@@ -30,7 +30,7 @@
 ###  **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working at [NAVI](https://navi.com/) as a SDET -1 ( EX  - Securonnix (SDET intern);
-- 🌱 proficient in C++, Java , RestAssured , Karate, Selenium , Data structure and Algorithm, Python/Django ;
+- 🌱 proficient in C++, Java ,API automation , UI Automation , RestAssured , Karate, Selenium , Data structure and Algorithm and Python/Django ;
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA ,Automation,RestAssured , Karate, Selenium , python, SQL , DBMS, OS , competitive programming, AI & Machine learning etc
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
@@ -41,9 +41,6 @@
 ### **Languages and Tools:**  
 
 
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ruby/ruby.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
