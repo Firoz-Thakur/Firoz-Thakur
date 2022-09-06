@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firoz</h1>
-<h3 align="center">  SDET-1 at NAVI || Ex - Securonix ||  ||   ||  Backend / UI Automation   ||   Rest Assured | Selenium   ||    Data structure and Algorithm     ||     Web Development 
+<h3 align="center">  SDET-1 at NAVI || Ex - Securonix ||  Backend / UI Automation   || c++ | Java | Rest Assured | Selenium   ||    Data structure and Algorithm     ||     Web Development 
 
   
   ### Hey 👋🏽, I'm [Firoz!](https://www.linkedin.com/in/firoz-kumar-163264188/) 
