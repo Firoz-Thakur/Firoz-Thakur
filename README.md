@@ -27,9 +27,7 @@
 - 🌱 proficient in C++, Java ,API automation , UI Automation , RestAssured , Karate, Selenium , Data structure and Algorithm and Python/Django ;
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA ,Automation,RestAssured , Karate, Selenium , python, SQL , DBMS, OS , competitive programming, AI & Machine learning etc
-- ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/) | [Instagram](https://www.instagram.com/aju.exe_/) | [Whatsapp](https://wa.me/message/IHV6SFCVVAB4H1) ;
-- 📝 Know about my past experience [Resume](https://drive.google.com/file/d/1WqVB9y633Yzb7WNtfXNkz8PyK9ZRjaCK/view?usp=sharing) ;
 - All my stuff are [Here](https://github.com/Firoz-Thakur?tab=repositories)
 
 ### **Languages and Tools:**  
