@@ -24,7 +24,7 @@
 ###  **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working at [NAVI](https://navi.com/) as a SDET -1 ( EX  - Securonix (SDET intern);
-- 🌱 proficient in C++, Java ,Spring core , Spring MVC, JDBC, Data JPA, Spring Boot , API automation , UI Automation , RestAssured , Karate, Selenium , Data structure and Algorithm and Python/Django ;
+- 🌱 proficient in C++, Java ,Spring core , Spring MVC, JDBC, Data JPA, Spring Boot ,Rest APIs,  API automation , UI Automation , RestAssured , Karate, Selenium , Data structure & Algorithm , Machine Learning and Python/Django ;
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA ,Automation,RestAssured , Karate, Selenium , python, SQL , DBMS, OS , competitive programming, AI & Machine learning etc
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/) | [Instagram](https://www.instagram.com/aju.exe_/) | [Whatsapp](https://wa.me/message/IHV6SFCVVAB4H1) ;
