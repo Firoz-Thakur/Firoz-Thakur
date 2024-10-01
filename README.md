@@ -22,7 +22,7 @@
   
 ###  **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working at [NAVI](https://navi.com/) as a SWE -1 ( EX  - Securonix (SWE intern);
+- 👨🏽‍💻 I’m currently working at [Innovaccer](https://innovaccer.com/) as a SWE -1 ( EX  - [Navi](https://navi.com/) (SWE);
 - 🌱 proficient in C++, Java ,Spring core , Spring MVC, JDBC, Data JPA, Spring Boot ,Rest APIs,  API automation , UI Automation , RestAssured , Karate, Selenium , Data structure & Algorithm , Machine Learning and Python/Django ;
 - 🤔 I’m looking for help with Data Structures and Algorithms ❤;
 - 💬 Ask me about c++,java, DSA ,Spring core, spring mvc, spring boot,Automation,RestAssured , Karate, Selenium , python, SQL , DBMS, OS , competitive programming, AI & Machine learning etc
