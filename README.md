@@ -4,7 +4,8 @@
 ### 🌟 A Bit About Me:
 I'm a software engineer from India who thrives on challenges and is always keen to learn new technologies. With a strong foundation in backend development, automation testing, and machine learning, I have a passion for building scalable applications and ensuring quality through robust testing practices.
 
----### 🔗 Connect with Me:
+---
+### 🔗 Connect with Me:
 <a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
   <img align="left" alt="Firoz's LinkedIn" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
