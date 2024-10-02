@@ -13,7 +13,26 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 <a href="https://www.instagram.com/aju.exe_/">
   <img align="left" alt="Firoz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://leetcode.com/u/FirozMars/">
+  <img align="left" alt="Firoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/firoz_kumar/">
+  <img align="left" alt="Firoz's GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a>
+<a href="https://www.codechef.com/users/firozzz">
+  <img align="left" alt="Firoz's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://www.hackerrank.com/profile/firozbhaikardar1">
+  <img align="left" alt="Firoz's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://codeforces.com/profile/__t___l__e__">
+  <img align="left" alt="Firoz's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://www.hackerearth.com/@firozbhai/">
+  <img align="left" alt="Firoz's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
+</a>
 <br />
+
 
 ---
 
