@@ -1,34 +1,45 @@
-<h1 align="center">Hi 👋, I'm Firoz</h1>
-<h3 align="center">SWE at Innovaccer | Ex - NAVI Technologies | Backend Development, SDET | Solved 500+ DSA problems across coding platforms | C++ | Data Structures and Algorithms | Java | Spring Boot | Rest Assured | Selenium | Playwright | Web Development</h3>
+Here's an enhanced and more attractive version of your profile, tailored specifically for a Backend and SDET engineer role. I've added some elements to make it visually appealing and highlighted key skills and experiences.
 
-### Hey 👋🏽, I'm [Firoz!](https://www.linkedin.com/in/firoz-kumar-163264188/)
+---
 
-<br/>
+<h1 align="center">👋 Hi, I'm Firoz!</h1>
+<h3 align="center">🚀 Software Engineer at Innovaccer | Formerly at NAVI Technologies | Passionate Backend Development & SDET | Solved 500+ DSA Problems | C++ | Java | Spring Boot | REST APIs | Automation</h3>
 
+### 🌟 A Bit About Me:
+I'm a software engineer from India who thrives on challenges and is always keen to learn new technologies. With a strong foundation in backend development and automation testing, I have a passion for building scalable applications and ensuring quality through robust testing practices.
+
+---
+
+### 🔗 Connect with Me:
 <a href="https://www.linkedin.com/in/firoz-kumar-163264188/">
   <img align="left" alt="Firoz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/aju.exe_/">
   <img align="left" alt="Firoz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <br />
-A software engineer 🚀 from India, always eager to learn and implement new technologies in real-life projects.
 
-### **Talking about Personal Stuff:**
+---
 
-- 👨🏽‍💻 I’m currently working at [Innovaccer](https://innovaccer.com/) as a SWE -1 (Ex - [Navi](https://navi.com/)).
-- 🌱 Proficient in C++, Java, Spring Core, Spring MVC, JDBC, Data JPA, Spring Boot, REST APIs, API automation, UI Automation, RestAssured, Karate, Selenium, Data Structures & Algorithms, Machine Learning, and Python/Django.
-- 🤔 I’m looking for help with Data Structures and Algorithms ❤.
-- 💬 Ask me about C++, Java, DSA, Spring Core, Spring MVC, Spring Boot, Automation, RestAssured, Karate, Selenium, Python, SQL, DBMS, OS, competitive programming, AI & Machine Learning, etc.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/) | [Instagram](https://www.instagram.com/firoz.baa/) | [Whatsapp](https://wa.me/wr/7GVK6IJ4CWRNG1).
-- All my stuff is [Here](https://github.com/Firoz-Thakur?tab=repositories).
+### 🧠 Skills & Expertise:
+- **Backend Development**: Proficient in C++, Java, Spring Core, Spring MVC, JDBC, and RESTful APIs.
+- **Testing & Automation**: Expertise in UI Automation with Selenium, RestAssured for API testing, and Karate.
+- **Data Structures & Algorithms**: Successfully solved 500+ problems across platforms like CodeChef, Codeforces, GeeksforGeeks, HackerRank, and LeetCode.
+- **CI/CD & DevOps**: Experienced with Jenkins, Kafka, and performance testing methodologies.
+- **Database Management**: Knowledge of SQL, Postgres, and NoSQL databases.
 
-### **Languages and Tools:**
+---
 
+### 📫 How to Reach Me:
+- **[LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/)** | **[Instagram](https://www.instagram.com/firoz.baa/)** | **[WhatsApp](https://wa.me/wr/7GVK6IJ4CWRNG1)**
+- Check out my projects on **[GitHub](https://github.com/Firoz-Thakur?tab=repositories)**
+
+---
+
+### 🛠️ Technologies I Work With:
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -43,8 +54,16 @@ A software engineer 🚀 from India, always eager to learn and implement new tec
 
 ![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true)
 
-### **Top Languages:**
-
+### 🌈 Top Languages:
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+
+---
+
+### 💡 Let's Build the Future Together!
+I’m excited to connect with fellow engineers, tech enthusiasts, and anyone who shares a passion for technology. Feel free to reach out!
+
+---
+
+Let me know if you'd like to make further changes or additions!
