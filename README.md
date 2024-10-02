@@ -42,24 +42,4 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Apache_Kafka_logo.svg" width="22px" alt="Kafka"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Jenkins_logo.svg" width="22px" alt="Jenkins"></code>
-<code><img height="22" src="https://www.sonarqube.org/images/sonar-logo.svg" width="22px" alt="SonarQube"></code>
-<code><img height="22" src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="22px" alt="Selenium"></code>
-<code><img height="22" src="https://rest-assured.io/images/logo.png" width="22px" alt="Rest Assured"></code>
-
----
-
-### 💻 GitHub Stats & Most Used Languages:
-<div style="display: flex; justify-content: space-between; padding: 10px;">
-  <div style="background-color: white; border-radius: 5px; width: 200px; padding: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);">
-    <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" style="width: 100%; height: auto;">
-  </div>
-  <div style="background-color: white; border-radius: 5px; width: 200px; padding: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" style="width: 100%; height: auto;">
-  </div>
-</div>
----
-
-### 💡 Let's Build the Future Together!
-I’m excited to connect with fellow engineers, tech enthusiasts, and anyone who shares a passion for technology. Feel free to reach out!
+<code><img hei
