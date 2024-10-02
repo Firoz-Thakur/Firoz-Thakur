@@ -51,6 +51,16 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 - **Database Management**:  
   Knowledgeable in SQL, Postgres, and NoSQL databases for effective data storage and retrieval in various applications.
 
+### 🧠 Skills
+
+- **Backend Development**: C++ (Advanced), Java (Advanced), Spring Core (Intermediate), Spring MVC (Intermediate), JDBC (Intermediate), RESTful APIs (Advanced)
+- **Testing & Automation**: Automation frameworks (Advanced), CI/CD integration (Advanced), Performance testing (Intermediate), Chaos testing (Intermediate), Mobile automation (Appium) (Intermediate)
+- **Data Structures & Algorithms**: Problem-solving (Advanced, 500+ problems solved)
+- **Machine Learning**: Model building (Intermediate), Data preprocessing (Intermediate), Application integration (Intermediate)
+- **Web Development**: Python (Intermediate), Django (Intermediate), Dynamic web applications (Intermediate), User-friendly interfaces (Intermediate)
+- **CI/CD & DevOps**: Jenkins (Intermediate), Kafka (Intermediate), Performance testing methodologies (Intermediate)
+- **Database Management**: SQL (Intermediate), Postgres (Intermediate), NoSQL databases (Intermediate)
+
 ---
 
 ### 📫 How to Reach Me:
