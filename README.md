@@ -53,10 +53,7 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 ![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true)
 
 ### 🌈 Top Languages:
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-
+<img src="https://media.giphy.com/media/2YjxZnCKl1oZy/giphy.gif" width="100"> <!-- Java --> <img src="https://media.giphy.com/media/1xJpt7mQRJp59E8K8c/giphy.gif" width="100"> <!-- C++ --> <img src="https://media.giphy.com/media/3oEjI6SIIHBdJp8H6Y/giphy.gif" width="100"> <!-- Python --> <img src="https://media.giphy.com/media/1zH6w4HtdkrvQQe3Kj/giphy.gif" width="100"> <!-- Scala -->
 ---
 
 ### 💡 Let's Build the Future Together!
