@@ -49,13 +49,17 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 <code><img height="22" src="https://rest-assured.io/images/logo.png" width="22px" alt="Rest Assured"></code>
 
 ---
-
 ### 💻 GitHub Stats & Most Used Languages:
-<br />
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" width="320" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" width="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" width="150" />
+    </td>
+  </tr>
+</table>
 
 
 ### 💡 Let's Build the Future Together!
