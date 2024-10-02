@@ -2,8 +2,7 @@
 <h3 align="center">🚀 Software Engineer at Innovaccer | Formerly at NAVI Technologies | Passionate Backend Development & SDET | Solved 500+ DSA Problems | C++ | Java | Spring Boot | REST APIs | Automation</h3>
 
 ### 🌟 A Bit About Me:
-I'm a software engineer from India who thrives on challenges and is always keen to learn new technologies. With a strong foundation in backend development, automation testing, and machine learning, I have a passion for building scalable applications and ensuring quality through robust testing practices.
-
+As a software engineer based in India, I am dedicated to pushing the boundaries of technology and innovation. My expertise spans software development and automation testing, where I enjoy tackling complex challenges and continuously expanding my skill set. With a robust background in backend development and a keen interest in automation, I am committed to building efficient, scalable applications while implementing rigorous testing practices to ensure software quality and reliability.
 ---
 ### 🔗 Connect with Me:
 <a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
