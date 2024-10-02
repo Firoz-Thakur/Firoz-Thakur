@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firoz</h1>
-<h3 align="center">  SWE-1 at Innovaccer || Ex - NAVI Technologies || Backend Development/Backend, UI Automation   | Solved 500+ DSA probles across codding platforms | C++ | Data structure and Algorithm  | Java | Sprring Boot | Rest Assured | Selenium   | Playwright |   Web Development 
+<h3 align="center">  SWE at Innovaccer | Ex - NAVI Technologies | Backend Development/Backend, UI Automation | Solved 500+ DSA probles across codding platforms | C++ | Data structure and Algorithm | Java | Sprring Boot | Rest Assured | Selenium | Playwright |   Web Development 
 
   
   ### Hey 👋🏽, I'm [Firoz!](https://www.linkedin.com/in/firoz-kumar-163264188/) 
