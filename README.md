@@ -53,7 +53,7 @@ As a software engineer based in India, I am dedicated to pushing the boundaries 
 
 ### 🧠 Technical Skills
 
-- **Backend Development**: C++, Java, Data Structures & Algorithms, Spring Core, Spring MVC, JDBC, Postman, RESTful APIs,Python, Django, ML Code Review
+- **Backend Development**: C++, Java, Data Structures & Algorithms, Spring Core, Spring MVC, JDBC, Postman, RESTful APIs,Python, Django, Machine Learning and Code Review
 - **Testing & Automation**: Backend and frontend Automation frameworks Development ,Rest Assured, Selenium, Mobile automation (Appium) , Playwright, CI/CD integration, Performance testing, Chaos testing, BDD
 - **CI/CD & DevOps**: Jenkins, Kafka, Performance Testing Methodologies, Docker, Kubernetes and CI/CD
 - **Database Management**: DBMS, SQL, Postgres, NoSQL databases
