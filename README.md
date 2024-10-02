@@ -5,30 +5,29 @@
 I'm a software engineer from India who thrives on challenges and is always keen to learn new technologies. With a strong foundation in backend development, automation testing, and machine learning, I have a passion for building scalable applications and ensuring quality through robust testing practices.
 
 ---
-
 ### 🔗 Connect with Me:
-<a href="https://www.linkedin.com/in/firoz-kumar-163264188/">
+<a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
   <img align="left" alt="Firoz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/aju.exe_/">
+<a href="https://www.instagram.com/aju.exe_/" title="Instagram">
   <img align="left" alt="Firoz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://leetcode.com/u/FirozMars/">
+<a href="https://leetcode.com/u/FirozMars/" title="LeetCode">
   <img align="left" alt="Firoz's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/firoz_kumar/">
+<a href="https://www.geeksforgeeks.org/user/firoz_kumar/" title="GeeksforGeeks">
   <img align="left" alt="Firoz's GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
-<a href="https://www.codechef.com/users/firozzz">
+<a href="https://www.codechef.com/users/firozzz" title="CodeChef">
   <img align="left" alt="Firoz's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<a href="https://www.hackerrank.com/profile/firozbhaikardar1">
+<a href="https://www.hackerrank.com/profile/firozbhaikardar1" title="HackerRank">
   <img align="left" alt="Firoz's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://codeforces.com/profile/__t___l__e__">
+<a href="https://codeforces.com/profile/__t___l__e__" title="Codeforces">
   <img align="left" alt="Firoz's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-<a href="https://www.hackerearth.com/@firozbhai/">
+<a href="https://www.hackerearth.com/@firozbhai/" title="HackerEarth">
   <img align="left" alt="Firoz's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a>
 <br />
