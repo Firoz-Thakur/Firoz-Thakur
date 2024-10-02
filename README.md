@@ -53,7 +53,7 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" width="450" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" width="450" height="250" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" width="450" />
