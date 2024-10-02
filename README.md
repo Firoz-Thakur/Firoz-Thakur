@@ -52,11 +52,11 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 
 ### 💻 GitHub Stats & Most Used Languages:
 <div style="display: flex; justify-content: space-between;">
-  <div style="background-color: white; padding: 5px; border-radius: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" style="width: 350px; height: 200px;">
+  <div style="background-color: white; padding: 5px; border-radius: 5px; width: 350px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" style="width: 100%; height: 100%;">
   </div>
-  <div style="background-color: white; padding: 5px; border-radius: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" style="width: 350px; height: 200px;">
+  <div style="background-color: white; padding: 5px; border-radius: 5px; width: 350px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" style="width: 100%; height: 100%;">
   </div>
 </div>
 
