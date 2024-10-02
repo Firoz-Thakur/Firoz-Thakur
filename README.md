@@ -53,7 +53,9 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 ![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true)
 
 ### 🌈 Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical)
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
 
 
 ### 💡 Let's Build the Future Together!
