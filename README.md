@@ -44,7 +44,7 @@ I'm a software engineer from India who thrives on challenges and is always keen 
   Successfully solved over 500 problems on platforms like CodeChef, Codeforces, and LeetCode, demonstrating strong problem-solving skills and algorithmic thinking.
 - **Machine Learning**:  
   Experienced in building machine learning models, focusing on data preprocessing and integration into applications for enhanced functionality.
-- **Web Development**:  
+- **Web Development using Python**:  
   Proficient in Python and Django for creating dynamic web applications with user-friendly interfaces and efficient database management.
 - **CI/CD & DevOps**:  
   Familiar with Jenkins for continuous integration and delivery, alongside Kafka for real-time data processing and performance testing methodologies.
