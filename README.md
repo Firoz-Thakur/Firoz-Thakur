@@ -35,13 +35,21 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 ---
 
 ### 🧠 Skills & Expertise:
-- **Backend Development**: Proficient in C++, Java, Spring Core, Spring MVC, JDBC, and RESTful APIs.
-- **Testing & Automation**: Expertise in UI Automation with Selenium, RestAssured for API testing, and Karate.
-- **Data Structures & Algorithms**: Successfully solved 500+ problems across platforms like CodeChef, Codeforces, GeeksforGeeks, HackerRank, and LeetCode.
-- **Machine Learning**: Experience in building ML models and integrating them into applications.
-- **Web Development**: Proficient in Python and Django for web application development.
-- **CI/CD & DevOps**: Experienced with Jenkins, Kafka, and performance testing methodologies.
-- **Database Management**: Knowledge of SQL, Postgres, and NoSQL databases.
+
+- **Backend Development**:  
+  Proficient in C++ and Java, specializing in Spring Core, Spring MVC, JDBC, and designing RESTful APIs for robust application architecture.
+- **Testing & Automation**:  
+  Expertise in developing automation frameworks from scratch and integrating them into CI/CD pipelines, with a focus on performance and chaos testing, along with mobile automation using Appium.
+- **Data Structures & Algorithms**:  
+  Successfully solved over 500 problems on platforms like CodeChef, Codeforces, and LeetCode, demonstrating strong problem-solving skills and algorithmic thinking.
+- **Machine Learning**:  
+  Experienced in building machine learning models, focusing on data preprocessing and integration into applications for enhanced functionality.
+- **Web Development**:  
+  Proficient in Python and Django for creating dynamic web applications with user-friendly interfaces and efficient database management.
+- **CI/CD & DevOps**:  
+  Familiar with Jenkins for continuous integration and delivery, alongside Kafka for real-time data processing and performance testing methodologies.
+- **Database Management**:  
+  Knowledgeable in SQL, Postgres, and NoSQL databases for effective data storage and retrieval in various applications.
 
 ---
 
