@@ -34,7 +34,7 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 
 ---
 
-### 🧠 Skills & Expertise:
+### 🧠 Professional Skills & Expertise:
 
 - **Backend Development**:  
   Proficient in C++ and Java, specializing in Spring Core, Spring MVC, JDBC, and designing RESTful APIs for robust application architecture.
@@ -51,7 +51,7 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 - **Database Management**:  
   Knowledgeable in SQL, Postgres, and NoSQL databases for effective data storage and retrieval in various applications.
 
-### 🧠 Skills
+### 🧠 Technical Skills
 
 - **Backend Development**: C++, Java, Data Structures & Algorithms, Spring Core, Spring MVC, JDBC, Postman, RESTful APIs,Python, Django, ML Code Review
 - **Testing & Automation**: Backend and frontend Automation frameworks Development ,Rest Assured, Selenium, Mobile automation (Appium) , Playwright, CI/CD integration, Performance testing, Chaos testing, BDD
