@@ -51,14 +51,8 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 ---
 
 ### 💻 GitHub Stats & Most Used Languages:
-<div style="display: flex; justify-content: space-between; padding: 10px;">
-  <div style="background-color: white; border-radius: 5px; width: 150px; padding: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);">
     <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" style="width: 100%; height: auto;">
-  </div>
-  <div style="background-color: white; border-radius: 5px; width: 150px; padding: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.2);">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" style="width: 100%; height: auto;">
-  </div>
-</div>
 ---
 
 ### 💡 Let's Build the Future Together!
