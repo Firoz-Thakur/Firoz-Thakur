@@ -1,7 +1,3 @@
-Here's an enhanced and more attractive version of your profile, tailored specifically for a Backend and SDET engineer role. I've added some elements to make it visually appealing and highlighted key skills and experiences.
-
----
-
 <h1 align="center">👋 Hi, I'm Firoz!</h1>
 <h3 align="center">🚀 Software Engineer at Innovaccer | Formerly at NAVI Technologies | Passionate Backend Development & SDET | Solved 500+ DSA Problems | C++ | Java | Spring Boot | REST APIs | Automation</h3>
 
@@ -63,7 +59,3 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 
 ### 💡 Let's Build the Future Together!
 I’m excited to connect with fellow engineers, tech enthusiasts, and anyone who shares a passion for technology. Feel free to reach out!
-
----
-
-Let me know if you'd like to make further changes or additions!
