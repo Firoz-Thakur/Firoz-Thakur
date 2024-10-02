@@ -9,9 +9,6 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 <a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
   <img align="left" alt="Firoz's LinkedIn" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/aju.exe_/" title="Instagram">
-  <img align="left" alt="Firoz's Instagram" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://leetcode.com/u/FirozMars/" title="LeetCode">
   <img align="left" alt="Firoz's LeetCode" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
@@ -29,6 +26,9 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 </a>
 <a href="https://www.hackerearth.com/@firozbhai/" title="HackerEarth">
   <img align="left" alt="Firoz's HackerEarth" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
+</a>
+<a href="https://www.instagram.com/firoz.baa/" title="Instagram">
+  <img align="left" alt="Firoz's Instagram" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
