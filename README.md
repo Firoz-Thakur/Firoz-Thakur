@@ -10,7 +10,7 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 <a href="https://www.linkedin.com/in/firoz-kumar-163264188/">
   <img align="left" alt="Firoz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/firoz.baa/">
+<a href="https://www.instagram.com/aju.exe_/">
   <img align="left" alt="Firoz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -29,7 +29,7 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 ---
 
 ### 📫 How to Reach Me:
-- **[LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/)** | **[Instagram](https://www.instagram.com/firoz.baa/)** | **[WhatsApp](https://wa.me/wr/7GVK6IJ4CWRNG1)** | **Phone: [7340877844](tel:+7340877844)**
+- **[LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/)** | **[Instagram](https://www.instagram.com/firoz.baa/)** | **[WhatsApp](https://wa.me/wr/7GVK6IJ4CWRNG1)** | **Phone: [7340877844](tel:7340877844)**
 - Check out my projects on **[GitHub](https://github.com/Firoz-Thakur?tab=repositories)**
 
 ---
@@ -52,11 +52,11 @@ I'm a software engineer from India who thrives on challenges and is always keen 
 
 ### 💻 GitHub Stats & Most Used Languages:
 <div style="display: flex; justify-content: space-between;">
-  <div style="background-color: #f6f8fa; padding: 10px; border-radius: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" style="width: 100%;">
+  <div style="background-color: white; padding: 5px; border-radius: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" style="width: 350px; height: 200px;">
   </div>
-  <div style="background-color: #f6f8fa; padding: 10px; border-radius: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" style="width: 100%;">
+  <div style="background-color: white; padding: 5px; border-radius: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" style="width: 350px; height: 200px;">
   </div>
 </div>
 
