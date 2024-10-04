@@ -37,7 +37,7 @@ As a software engineer based in India, I am dedicated to pushing the boundaries 
 ### 🧠 Professional Skills & Expertise:
 
 - **Backend Development**:  
-  Proficient in C++ and Java, specializing in Spring Core, Spring MVC, JDBC, and designing RESTful APIs for robust application architecture.
+  Proficient in C++ and Java, specializing in Spring Core, Spring MVC, Spring Boot JDBC, and designing RESTful APIs for robust application architecture.
 - **Testing & Automation**:  
   Expertise in developing automation frameworks from scratch and integrating them into CI/CD pipelines, with a focus on performance and chaos testing, along with mobile automation using Appium.
 - **Data Structures & Algorithms**:  
