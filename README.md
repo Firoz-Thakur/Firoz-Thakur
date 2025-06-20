@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Firoz!</h1>
-<h3 align="center">🚀 Software Engineer at Innovaccer | Ex - NAVI Technologies | Passionate Backend Development & SDET | Solved 500+ DSA Problems | C++ | Java | Spring Boot | REST APIs | Automation Framework Development </h3>
+<h3 align="center">🚀 Senior Software Engineer in Test at Razorpay | Ex - Navi , Innovaccer  | Passionate Backend Development & SDET | Solved 500+ DSA Problems | C++ | Java | Spring Boot | REST APIs | Automation Framework Development </h3>
 
 ### 🌟 A Bit About Firoz:
 Firoz is a dedicated software engineer based in India, passionate about advancing technology and driving innovation. His expertise encompasses software development, automation and software quality assurance , where he thrives on solving complex challenges and continually broadening his skill set. With a strong foundation in backend development and automation, Firoz is committed to designing efficient, scalable applications while implementing stringent testing practices to guarantee software quality and reliability
