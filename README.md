@@ -11,36 +11,28 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 ---
 
 ### 🔗 Connect with Me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
-    <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkedIn" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/Firoz-Thakur" title="GitHub">
-    <img alt="GitHub" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="GitHub" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://leetcode.com/u/FirozMars/" title="LeetCode">
-    <img alt="LeetCode" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+    <img alt="LeetCode" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/firoz_kumar/" title="GeeksforGeeks">
-    <img alt="GeeksforGeeks" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+    <img alt="GeeksforGeeks" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
   </a>
   <a href="https://www.codechef.com/users/firozzz" title="CodeChef">
-    <img alt="CodeChef" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+    <img alt="CodeChef" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a>
   <a href="https://www.hackerrank.com/firozbhaikardar1" title="HackerRank">
-    <img alt="HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+    <img alt="HackerRank" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
   <a href="https://codeforces.com/profile/__t___l__e__" title="Codeforces">
-    <img alt="Codeforces" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-  </a>
-  <a href="https://www.hackerearth.com/@firozbhai/" title="HackerEarth">
-    <img alt="HackerEarth" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
-  </a>
-  <a href="https://www.spoj.com/users/firoz233/" title="SPOJ">
-    <img alt="SPOJ" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spoj.svg" />
-  </a>
-  <a href="https://atcoder.jp/users/Firoz_bhai" title="AtCoder">
-    <img alt="AtCoder" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atcoder.svg" />
+    <img alt="Codeforces" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a>
 </p>
 <br clear="left"/>
