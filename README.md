@@ -61,9 +61,22 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 | HackerEarth    | ~15+            | [firozbhai](https://www.hackerearth.com/@firozbhai/)  |
 
 **Total Problems Solved:** ~590+
-
-![CP Distribution](<https://quickchart.io/chart?c=%7Btype:'pie',data:%7Blabels:['LeetCode','GeeksforGeeks','Codeforces','CodeChef','SPOJ','AtCoder','HackerRank','HackerEarth'],datasets:[%7Bdata:[300,100,60,80,5,5,25,15]%7D]%7D,options:%7Bplugins:%7Blegend:%7Bposition:'right'%7D%7D,title:%7Bdisplay:true,text:'CP Problem Distribution'%7D%7D%7D>)
-
+![CP Distribution](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['LeetCode','GeeksforGeeks','Codeforces','CodeChef','SPOJ','AtCoder','HackerRank','HackerEarth'],
+    datasets:[{data:[300,100,60,80,5,5,25,15]}]
+  },
+  options:{
+    plugins:{
+      legend:{position:'right'}
+    },
+    title:{
+      display:true,
+      text:'CP Problem Distribution'
+    }
+  }
+})
 ---
 
 ### 🧠 Professional Skills & Expertise:
