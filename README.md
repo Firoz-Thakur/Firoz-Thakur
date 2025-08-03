@@ -88,7 +88,7 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 ### 📫 How to Reach Me
 
 - **LinkedIn:** https://www.linkedin.com/in/firoz-kumar-163264188/  
-- **Email:** firozbhaikardar21@gmail.com  
+- **Email:** firozkumar3999@gmail.com  
 - **Phone:** +91 7340877844
 
 ---
