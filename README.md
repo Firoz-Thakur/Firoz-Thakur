@@ -27,10 +27,27 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 <a href="https://www.hackerearth.com/@firozbhai/" title="HackerEarth">
   <img align="left" alt="Firoz's HackerEarth" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a>
-<a href="https://www.instagram.com/firoz.baa/" title="Instagram">
-  <img align="left" alt="Firoz's Instagram" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.spoj.com/users/firozSPOJ" title="SPOJ">
+  <img align="left" alt="Firoz's SPOJ" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spoj.svg" />
+</a>
+<a href="https://www.interviewbit.com/profile/firozIB" title="InterviewBit">
+  <img align="left" alt="Firoz's InterviewBit" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/interviewbit.svg" />
 </a>
 <br />
+
+---
+
+### 🏆 Competitive Programming Profiles & Badges
+<p>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FirozMars-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/FirozMars/)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-__t___l__e__-blue?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/__t___l__e__)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-firozzz-red?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/firozzz)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-firoz_kumar-green?logo=geeksforgeeks&style=for-the-badge)](https://www.geeksforgeeks.org/user/firoz_kumar/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-firozbhaikardar1-yellow?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/firozbhaikardar1)
+  [![HackerEarth](https://img.shields.io/badge/HackerEarth-firozbhai-black?logo=hackerearth&style=for-the-badge)](https://www.hackerearth.com/@firozbhai/)
+  [![SPOJ](https://img.shields.io/badge/SPOJ-firozSPOJ-purple?logo=spoj&style=for-the-badge)](https://www.spoj.com/users/firozSPOJ)
+  [![InterviewBit](https://img.shields.io/badge/InterviewBit-firozIB-blue?logo=interviewbit&style=for-the-badge)](https://www.interviewbit.com/profile/firozIB)
+</p>
 
 ---
 
