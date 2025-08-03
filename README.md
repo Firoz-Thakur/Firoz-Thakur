@@ -44,13 +44,13 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 | Logo | Platform       | Problems Solved | Profile Link                                         |
 |------|----------------|-----------------|------------------------------------------------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"> | LeetCode       | ~300+           | [firozkumar](https://leetcode.com/u/FirozMars/)       |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30"> | GeeksforGeeks  | ~100+           | [firozkumar](https://www.geeksforgeeks.org/user/firoz_kumar/) |
-| <img src="https://sta.codeforces.com/s/59502/images/codeforces-logo-with-telegram.png" height="30"> | Codeforces     | ~60+            | [__t___l__e__](https://codeforces.com/profile/__t___l__e__) |
-| <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo.png" height="30"> | CodeChef       | ~80+            | [firozkumar](https://www.codechef.com/users/firozzz)     |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/SPOJ.png" height="30"> | SPOJ           | ~5+             | [firozkumar](https://www.spoj.com/users/firoz233/)      |
-| <img src="https://atcoder.jp/public/img/atcoder.png" height="30"> | AtCoder        | ~5+             | [firozkumar](https://atcoder.jp/users/Firoz_bhai)     |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30"> | HackerRank     | ~25+            | [firozkumar](https://www.hackerrank.com/firozbhaikardar1) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="30"> | HackerEarth    | ~15+            | [firozkumar](https://www.hackerearth.com/@firozbhai/)  |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30"> | GeeksforGeeks  | ~486+           | [firozkumar](https://www.geeksforgeeks.org/user/firoz_kumar/) |
+| <img src="https://sta.codeforces.com/s/59502/images/codeforces-logo-with-telegram.png" height="30"> | Codeforces     | ~188+            | [firozkumar](https://codeforces.com/profile/__t___l__e__) |
+| <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo.png" height="30"> | CodeChef       | ~254+            | [firozkumar](https://www.codechef.com/users/firozzz)     |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/SPOJ.png" height="30"> | SPOJ           | ~7+             | [firozkumar](https://www.spoj.com/users/firoz233/)      |
+| <img src="https://atcoder.jp/public/img/atcoder.png" height="30"> | AtCoder        | ~36+             | [firozkumar](https://atcoder.jp/users/Firoz_bhai)     |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30"> | HackerRank     | ~500+            | [firozkumar](https://www.hackerrank.com/firozbhaikardar1) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="30"> | HackerEarth    | ~42+            | [firozkumar](https://www.hackerearth.com/@firozbhai/)  |
 | <img src="https://assets.interviewbit.com/assets/logo-216ce041c1be9621dd902fd6c3c54e13.svg" height="30"> | InterviewBit | ~5+ | [firozkumar](https://www.interviewbit.com/profile/firoz-bhai-kardar/) |
 
 **Total Problems Solved:** ~590+
