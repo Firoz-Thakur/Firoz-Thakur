@@ -94,23 +94,40 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 ---
 ### 🛠️ Technologies I Work With
 
-<!-- Programming -->
+<!-- Languages -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>&nbsp;
 
-<!-- Automation Tools -->
+<!-- SDET / QA Automation -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" alt="Selenium"></code>&nbsp;
 <code><img height="30" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright"></code>&nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Cucumber.png" alt="Cucumber"></code>&nbsp;
 <code><img height="30" src="https://static.javadoc.io/org.testng/testng/6.9.10/org/testng/images/testng_logo.png" alt="TestNG"></code>&nbsp;
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-jmeter.svg" alt="JMeter"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Postman_(software).png" alt="Postman"></code>&nbsp;
 
-<!-- Other -->
+<!-- DevOps -->
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes"></code>&nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot"></code>&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Postman_(software).png" alt="Postman"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Argo-logo-full-color.png" alt="ArgoCD"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Prometheus_software_logo.svg" alt="Prometheus"></code>&nbsp;
+
+<!-- Software Development -->
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Terraform_Logo.svg" alt="Terraform"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Firebase_Logo.svg" alt="Firebase"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" alt="Google Cloud"></code>&nbsp;
+
+<!-- AI / Data Science -->
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_logo.svg" alt="TensorFlow"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PyTorch_logo_icon.svg" alt="PyTorch"></code>&nbsp;
 
 ---
 
