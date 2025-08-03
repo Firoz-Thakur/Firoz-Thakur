@@ -94,18 +94,23 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 ---
 ### 🛠️ Technologies I Work With
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Apache_Kafka_logo.svg"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-jmeter.svg"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Postman_(software).png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_logo.svg"></code>
+<!-- Programming -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>&nbsp;
+
+<!-- Automation Tools -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" alt="Selenium"></code>&nbsp;
+<code><img height="30" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Cucumber.png" alt="Cucumber"></code>&nbsp;
+<code><img height="30" src="https://static.javadoc.io/org.testng/testng/6.9.10/org/testng/images/testng_logo.png" alt="TestNG"></code>&nbsp;
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-jmeter.svg" alt="JMeter"></code>&nbsp;
+
+<!-- Other -->
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Postman_(software).png" alt="Postman"></code>&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_logo.svg" alt="TensorFlow"></code>&nbsp;
 
 ---
 
