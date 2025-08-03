@@ -92,7 +92,6 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 - **Phone:** +91 7340877844
 
 ---
-
 ### 🛠️ Technologies I Work With
 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -106,6 +105,17 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 <code><img height="22" src="https://www.sonarqube.org/images/sonar-logo.svg"></code>
 <code><img height="22" src="https://www.selenium.dev/images/selenium_logo_square_green.png"></code>
 <code><img height="22" src="https://rest-assured.io/images/logo.png"></code>
+
+<!-- New SDET-related tools -->
+<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"></code>
+<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Playwright"></code>  <!-- Placeholder for Playwright logo -->
+<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"></code>
+<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" alt="DevOps"></code>
+<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" alt="JMeter"></code>
+<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chaosengineering/chaosengineering-plain.svg" alt="Chaos Testing"></code>
+<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"></code>
+<!-- AI & Data Science -->
+<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI/ML"></code>
 
 ---
 
