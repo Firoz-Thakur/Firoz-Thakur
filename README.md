@@ -94,28 +94,18 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 ---
 ### 🛠️ Technologies I Work With
 
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Apache_Kafka_logo.svg" width="22px"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Jenkins_logo.svg" width="22px"></code>
-<code><img height="22" src="https://www.sonarqube.org/images/sonar-logo.svg"></code>
-<code><img height="22" src="https://www.selenium.dev/images/selenium_logo_square_green.png"></code>
-<code><img height="22" src="https://rest-assured.io/images/logo.png"></code>
-
-<!-- New SDET-related tools -->
-<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Playwright"></code>  <!-- Placeholder for Playwright logo -->
-<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" alt="DevOps"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" alt="JMeter"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chaosengineering/chaosengineering-plain.svg" alt="Chaos Testing"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"></code>
-<!-- AI & Data Science -->
-<code><img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI/ML"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Apache_Kafka_logo.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-jmeter.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Postman_(software).png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_logo.svg"></code>
 
 ---
 
