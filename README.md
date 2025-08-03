@@ -14,25 +14,25 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 
 <p align="left">
   <a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
-    <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Firoz-Thakur" title="GitHub">
-    <img alt="GitHub" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/FirozMars/" title="LeetCode">
-    <img alt="LeetCode" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+    <img alt="LeetCode" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/firoz_kumar/" title="GeeksforGeeks">
-    <img alt="GeeksforGeeks" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+    <img alt="GeeksforGeeks" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/firozzz" title="CodeChef">
-    <img alt="CodeChef" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+    <img alt="CodeChef" height="40" src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo.png" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/firozbhaikardar1" title="HackerRank">
-    <img alt="HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+    <img alt="HackerRank" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/__t___l__e__" title="Codeforces">
-    <img alt="Codeforces" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+    <img alt="Codeforces" height="40" src="https://sta.codeforces.com/s/59502/images/codeforces-logo-with-telegram.png" />
   </a>
 </p>
 <br clear="left"/>
