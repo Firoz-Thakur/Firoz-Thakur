@@ -53,7 +53,7 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="30"> | HackerEarth    | ~42+            | [firozkumar](https://www.hackerearth.com/@firozbhai/)  |
 | <img src="https://assets.interviewbit.com/assets/logo-216ce041c1be9621dd902fd6c3c54e13.svg" height="30"> | InterviewBit | ~5+ | [firozkumar](https://www.interviewbit.com/profile/firoz-bhai-kardar/) |
 
-**Total Problems Solved:** ~590+
+**Total Problems Solved:** ~1318+
 
 --
 
