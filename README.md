@@ -14,25 +14,25 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 
 <p align="left">
   <a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
-    <img alt="LinkedIn" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+    <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Firoz-Thakur" title="GitHub">
-    <img alt="GitHub" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
+    <img alt="GitHub" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/FirozMars/" title="LeetCode">
-    <img alt="LeetCode" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-  </a>
+    <img alt="LeetCode" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/firoz_kumar/" title="GeeksforGeeks">
-    <img alt="GeeksforGeeks" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-  </a>
+    <img alt="GeeksforGeeks" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/firozzz" title="CodeChef">
-    <img alt="CodeChef" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-  </a>
+    <img alt="CodeChef" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/firozbhaikardar1" title="HackerRank">
-    <img alt="HackerRank" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-  </a>
+    <img alt="HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/__t___l__e__" title="Codeforces">
-    <img alt="Codeforces" width="30" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+    <img alt="Codeforces" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a>
 </p>
 <br clear="left"/>
