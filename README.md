@@ -1,39 +1,52 @@
-```md
 <h1 align="center">👋 Hi, I'm Firoz!</h1>
-<h3 align="center">🚀 Senior Software Engineer in Test at Razorpay | Ex - Navi , Innovaccer  | Passionate Backend Development & SDET | Solved 500+ DSA Problems | C++ | Java | Spring Boot | REST APIs | Automation Framework Development </h3>
+<h3 align="center">
+  🚀 Senior Software Engineer in Test at Razorpay | Ex - Navi, Innovaccer  
+  | Passionate Backend Development & SDET | Solved 500+ DSA Problems  
+  | C++ | Java | Spring Boot | REST APIs | Automation Framework Development  
+</h3>
 
 ### 🌟 A Bit About Firoz:
-Firoz is a dedicated software engineer based in India, passionate about advancing technology and driving innovation. His expertise encompasses software development, automation and software quality assurance , where he thrives on solving complex challenges and continually broadening his skill set. With a strong foundation in backend development and automation, Firoz is committed to designing efficient, scalable applications while implementing stringent testing practices to guarantee software quality and reliability
+Firoz is a dedicated software engineer based in India, passionate about advancing technology and driving innovation. His expertise spans software development, automation, and software quality assurance, where he thrives on solving complex challenges and continually broadening his skill set. With a strong foundation in backend development and automation, Firoz designs efficient, scalable applications while implementing stringent testing practices to guarantee software quality and reliability.
 
 ---
+
 ### 🔗 Connect with Me:
-<a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
-  <img align="left" alt="Firoz's LinkedIn" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/u/FirozMars/" title="LeetCode">
-  <img align="left" alt="Firoz's LeetCode" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/firoz_kumar/" title="GeeksforGeeks">
-  <img align="left" alt="Firoz's GeeksforGeeks" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-</a>
-<a href="https://www.codechef.com/users/firozzz" title="CodeChef">
-  <img align="left" alt="Firoz's CodeChef" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.hackerrank.com/profile/firozbhaikardar1" title="HackerRank">
-  <img align="left" alt="Firoz's HackerRank" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://codeforces.com/profile/__t___l__e__" title="Codeforces">
-  <img align="left" alt="Firoz's Codeforces" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-<a href="https://www.hackerearth.com/@firozbhai/" title="HackerEarth">
-  <img align="left" alt="Firoz's HackerEarth" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
-</a>
-<a href="https://www.instagram.com/firoz.baa/" title="Instagram">
-  <img align="left" alt="Firoz's Instagram" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
+<p align="left">
+  <a href="https://www.linkedin.com/in/firoz-kumar-163264188/" title="LinkedIn">
+    <img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/Firoz-Thakur" title="GitHub">
+    <img alt="GitHub" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://leetcode.com/u/FirozMars/" title="LeetCode">
+    <img alt="LeetCode" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/firoz_kumar/" title="GeeksforGeeks">
+    <img alt="GeeksforGeeks" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+  </a>
+  <a href="https://www.codechef.com/users/firozzz" title="CodeChef">
+    <img alt="CodeChef" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  </a>
+  <a href="https://www.hackerrank.com/firozbhaikardar1" title="HackerRank">
+    <img alt="HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  </a>
+  <a href="https://codeforces.com/profile/__t___l__e__" title="Codeforces">
+    <img alt="Codeforces" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  </a>
+  <a href="https://www.hackerearth.com/@firozbhai/" title="HackerEarth">
+    <img alt="HackerEarth" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
+  </a>
+  <a href="https://www.spoj.com/users/firoz233/" title="SPOJ">
+    <img alt="SPOJ" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spoj.svg" />
+  </a>
+  <a href="https://atcoder.jp/users/Firoz_bhai" title="AtCoder">
+    <img alt="AtCoder" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atcoder.svg" />
+  </a>
+</p>
+<br clear="left"/>
 
 ---
+
 ### 🏆 Competitive Programming Stats
 
 | Platform       | Problems Solved | Profile Link                                         |
@@ -49,78 +62,73 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 
 **Total Problems Solved:** ~590+
 
-![CP Distribution](<https://quickchart.io/chart?c={
-  type:'pie',
-  data:{
-    labels:['LeetCode','GeeksforGeeks','Codeforces','CodeChef','SPOJ','AtCoder','HackerRank','HackerEarth'],
-    datasets:[{data:[300,100,60,80,5,5,25,15]}]
-  },
-  options:{
-    plugins:{legend:{position:'right'}},
-    title:{display:true,text:'CP Problem Distribution'}
-  }
-}>)
+![CP Distribution](<https://quickchart.io/chart?c=%7Btype:'pie',data:%7Blabels:['LeetCode','GeeksforGeeks','Codeforces','CodeChef','SPOJ','AtCoder','HackerRank','HackerEarth'],datasets:[%7Bdata:[300,100,60,80,5,5,25,15]%7D]%7D,options:%7Bplugins:%7Blegend:%7Bposition:'right'%7D%7D,title:%7Bdisplay:true,text:'CP Problem Distribution'%7D%7D%7D>)
 
 ---
+
 ### 🧠 Professional Skills & Expertise:
 
-- **Backend Development**:  
+- **Backend Development:**  
   Proficient in C++ and Java, specializing in Spring Core, Spring MVC, Spring Boot JDBC, and designing RESTful APIs for robust application architecture.
-- **Testing & Automation**:  
+- **Testing & Automation:**  
   Expertise in developing automation frameworks from scratch and integrating them into CI/CD pipelines, with a focus on performance and chaos testing, along with mobile automation using Appium.
-- **Data Structures & Algorithms**:  
+- **Data Structures & Algorithms:**  
   Successfully solved over 500 problems on platforms like CodeChef, Codeforces, and LeetCode, demonstrating strong problem-solving skills and algorithmic thinking.
-- **Machine Learning**:  
+- **Machine Learning:**  
   Experienced in building machine learning models, focusing on data preprocessing and integration into applications for enhanced functionality.
-- **Web Development using Python**:  
+- **Web Development using Python:**  
   Proficient in Python and Django for creating dynamic web applications with user-friendly interfaces and efficient database management.
-- **CI/CD & DevOps**:  
+- **CI/CD & DevOps:**  
   Familiar with Jenkins for continuous integration and delivery, alongside Kafka for real-time data processing and performance testing methodologies.
-- **Database Management**:  
+- **Database Management:**  
   Knowledgeable in SQL, Postgres, and NoSQL databases for effective data storage and retrieval in various applications.
+
+---
 
 ### 🧠 Technical Skills
 
-- **Backend Development**: C++, Java, Data Structures & Algorithms, Spring Core, Spring MVC, JDBC, Postman, RESTful APIs,Python, Django, Machine Learning and Code Review
-- **Testing & Automation**: Backend and frontend Automation frameworks Development ,Rest Assured, Selenium, Mobile automation (Appium) , Playwright, CI/CD integration, Performance testing, Chaos testing, BDD
-- **CI/CD & DevOps**: Jenkins, Kafka, Performance Testing Methodologies, Docker, Kubernetes and CI/CD
-- **Database Management**: DBMS, SQL, Postgres, NoSQL databases
----
-
-### 📫 How to Reach Me:
-- **[LinkedIn](https://www.linkedin.com/in/firoz-kumar-163264188/)** | **[Instagram](https://www.instagram.com/firoz.baa/)** | **[WhatsApp](https://wa.me/wr/7GVK6IJ4CWRNG1)** | **Phone: [7340877844](tel:7340877844)**
-- Check out my projects on **[GitHub](https://github.com/Firoz-Thakur?tab=repositories)**
+- **Backend Development:** C++, Java, Data Structures & Algorithms, Spring Core, Spring MVC, JDBC, Postman, RESTful APIs, Python, Django, Machine Learning and Code Review  
+- **Testing & Automation:** Automation frameworks (Selenium, Playwright, Rest Assured, Appium), CI/CD integration, Performance testing, Chaos testing, BDD  
+- **CI/CD & DevOps:** Jenkins, Docker, Kubernetes, Kafka  
+- **Database Management:** SQL, PostgreSQL, NoSQL
 
 ---
 
-### 🛠️ Technologies I Work With:
+### 📫 How to Reach Me
+
+- **LinkedIn:** https://www.linkedin.com/in/firoz-kumar-163264188/  
+- **Email:** firozbhaikardar21@gmail.com  
+- **Phone:** +91 7340877844
+
+---
+
+### 🛠️ Technologies I Work With
+
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Apache_Kafka_logo.svg" width="22px" alt="Kafka"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Jenkins_logo.svg" width="22px" alt="Jenkins"></code>
-<code><img height="22" src="https://www.sonarqube.org/images/sonar-logo.svg" width="22px" alt="SonarQube"></code>
-<code><img height="22" src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="22px" alt="Selenium"></code>
-<code><img height="22" src="https://rest-assured.io/images/logo.png" width="22px" alt="Rest Assured"></code>
+<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Apache_Kafka_logo.svg" width="22px"></code>
+<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Jenkins_logo.svg" width="22px"></code>
+<code><img height="22" src="https://www.sonarqube.org/images/sonar-logo.svg"></code>
+<code><img height="22" src="https://www.selenium.dev/images/selenium_logo_square_green.png"></code>
+<code><img height="22" src="https://rest-assured.io/images/logo.png"></code>
 
 ---
-### 💻 GitHub Stats & Most Used Languages:
+
+### 💻 GitHub Stats & Most Used Languages
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" alt="Firoz's GitHub Stats" width="450" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" alt="Most Used Languages" width="450" />
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Firoz-Thakur&include_all_commits=true&theme=radical" width="350" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-Thakur&layout=compact&theme=radical" width="260" alt="Top Languages"/></td>
   </tr>
 </table>
 
 ---
 
 ### 💡 Let's Build the Future Together!
+
 I’m excited to connect with fellow engineers, tech enthusiasts, and anyone who shares a passion for technology. Feel free to reach out!
-```
