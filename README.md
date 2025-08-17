@@ -8,27 +8,7 @@
   <a href="https://topmate.io/firoz_kumar" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20with%20me%20on-Topmate-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgM2M1LjUyIDAgNyA1LjYyIDcgN3MtMS40OCA3LTcgNy03LTUuNjItNy03IDEuNDgtNyA3LTd6bTAgMy4yN2MtMi4zIDAtNC4xOCAxLjg4LTQuMTggNC4yMnMxLjg4IDQuMjIgNC4xOCA0LjIyIDQuMTgtMS44OCA0LjE4LTQuMjItMS44OC00LjIyLTQuMTgtNC4yMnoiLz48L3N2Zz4=" alt="Topmate" height="28"/>
   </a>
-</p>
-
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=firoz-kumar-163264188" target="_blank">Follow on LinkedIn</a>
-
+  
 ### 🌟 A Bit About Firoz:
 Firoz is a dedicated software engineer based in India, passionate about advancing technology and driving innovation. His expertise spans software development, automation, and software quality assurance, where he thrives on solving complex challenges and continually broadening his skill set. With a strong foundation in backend development and automation, Firoz designs efficient, scalable applications while implementing stringent testing practices to guarantee software quality and reliability.
 
