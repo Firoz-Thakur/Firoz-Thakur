@@ -10,6 +10,24 @@
   </a>
 </p>
 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=firoz-kumar-163264188" target="_blank">Follow on LinkedIn</a>
 
 ### 🌟 A Bit About Firoz:
 Firoz is a dedicated software engineer based in India, passionate about advancing technology and driving innovation. His expertise spans software development, automation, and software quality assurance, where he thrives on solving complex challenges and continually broadening his skill set. With a strong foundation in backend development and automation, Firoz designs efficient, scalable applications while implementing stringent testing practices to guarantee software quality and reliability.
