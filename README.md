@@ -75,7 +75,7 @@ Firoz is a dedicated software engineer based in India, passionate about advancin
 - **Testing & Automation:**  
   Expertise in developing automation frameworks from scratch and integrating them into CI/CD pipelines, with a focus on performance and chaos testing, along with mobile automation using Appium.
 - **Data Structures & Algorithms:**  
-  Successfully solved over 500 problems on platforms like CodeChef, Codeforces, and LeetCode, demonstrating strong problem-solving skills and algorithmic thinking.
+  Successfully solved over 1300+ problems on platforms like CodeChef, Codeforces, and LeetCode, demonstrating strong problem-solving skills and algorithmic thinking.
 - **Machine Learning:**  
   Experienced in building machine learning models, focusing on data preprocessing and integration into applications for enhanced functionality.
 - **Web Development using Python:**  
